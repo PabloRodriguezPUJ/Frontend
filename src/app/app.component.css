@@ -1,0 +1,11 @@
+.main-content {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 60px; /* Establece el alto del footer */
+  }
+  
+  app-header, app-footer {
+    display: block;
+    margin: 0;
+  }
+  
